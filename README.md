@@ -1,11 +1,39 @@
-- 👋 Hi, I’m mahmoodslr
-- 👀 I’m interested in front-end development and creating interactive web applications.
-- 🌱 I’m currently learning React to enhance my skills in modern web development.
-- ✨  I’m looking to collaborate on innovative web projects or open-source contributions.
-- 📫 How to reach me (mahmood.salari.t@gmail.com) || (https://www.linkedin.com/in/mahmood-salari/)
-- ⚡ I love solving JavaScript puzzles and exploring new UI/UX trends.
+# 👋 Hi, I'm Mahmood Salari
 
-<!---
-mahmoodslr/mahmoodslr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Software Engineering Student | Front-End Developer**
+
+---
+
+## 🚀 About Me
+
+- 👀 Passionate about **front-end development** and building **interactive web applications**.
+- 🌱 Currently exploring **Machine Learning** alongside front-end development.
+- ⚡ Love solving **JavaScript puzzles** and exploring new **UI/UX trends**.
+- 👨‍🎓 **Software Engineering student** at **University of Birjand**.
+
+### 🖥️ Programming Languages
+- **C++**, **JavaScript**, **HTML**, **Python**, **CSS**, **JQuery**
+
+### 🔧 Frameworks & Libraries
+- **React**
+- **Bootstrap**, **NumPy**
+
+### 📚 Currently Learning
+- **Computer Engineering Concepts**
+- **Next.js**
+- **Machine Learning**
+
+<!--## 📊 GitHub Stats
+
+![Mahmood's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoodslr&show_icons=true&theme=radical)      
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoodslr&layout=compact&theme=radical)
+-->
+## 📫 Get in Touch
+
+- 📧 Email: [mahmood.salari.t@gmail.com](mailto:mahmood.salari.t@gmail.com)
+- 💼 LinkedIn: [Mahmood Salari](https://www.linkedin.com/in/mahmood-salari/)
+
+---
+
+🚀 *Always learning, always coding!*
