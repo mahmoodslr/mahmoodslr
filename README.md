@@ -23,12 +23,12 @@
 - **Next.js**
 - **Machine Learning**
 
-<!--## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Mahmood's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoodslr&show_icons=true&theme=radical)      
+<!--![Mahmood's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoodslr&show_icons=true&theme=radical)-->    
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoodslr&layout=compact&theme=radical)
--->
+
 ## 📫 Get in Touch
 
 - 📧 Email: [mahmood.salari.t@gmail.com](mailto:mahmood.salari.t@gmail.com)
