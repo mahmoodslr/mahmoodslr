@@ -27,7 +27,7 @@
 
 <!--![Mahmood's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoodslr&show_icons=true&theme=radical)-->    
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoodslr&layout=compact&theme=radical) -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoodslr&layout=compact&theme=radical) 
 
 ## 📫 Get in Touch
 
